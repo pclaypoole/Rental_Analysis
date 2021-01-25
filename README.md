@@ -1,4 +1,4 @@
-# Unit 6 - Pythonic Monopoly
+# San Francisco Real Estate Dashboard
 
 ![San Francisco Park Reading](Images/san-francisco-park-reading.jpg)
 
